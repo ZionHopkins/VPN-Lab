@@ -21,8 +21,9 @@ On your actual computer, sign up for the free version of Proton VPN https://acco
 
 Back within your VM, download the Proton VPN client
 <p>
-<img src="blob:https://imgur.com/52da6660-a316-4374-837f-bad0c555cfa1"80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/B4GdRCQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+                                                                                                                    
 <p>
 <img src="https://i.imgur.com/IBltuhK.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
