@@ -31,5 +31,5 @@ Back within your VM, download the Proton VPN client
 Login to the VPN and choose a VPN server in yet another country (such as Japan)
 
 <p>
-<img src="blob:https://imgur.com/b4c70075-7abd-4da4-9452-3f9df3d462a4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XncqC3U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
