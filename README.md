@@ -1,4 +1,7 @@
 # VPN-Lab
+Summary
+A walkthrough of creating and using a VPN in an Azure environment. 
+
 <p>
 <img src="https://i.imgur.com/MErgN1u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
